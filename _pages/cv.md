@@ -23,9 +23,9 @@ Education
    * **Overall GPA: 4.0/4.0**
    * **Award: James Lu and Qingni Li Engineering Graduate Scholarship**
 
-Inventions Patents
+Invention Patents
 ======
-* 
+* See [Invention Patents](site.publications)
 
 
 Work experience
