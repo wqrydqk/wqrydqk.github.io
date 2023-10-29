@@ -28,7 +28,6 @@ Invention Patents
 ======
 * See [Invention Patents](https://wqrydqk.github.io/patents/)
 
-
 Work Experiences
 ======
 * See [Work Experience](https://wqrydqk.github.io/workexperiences/)
