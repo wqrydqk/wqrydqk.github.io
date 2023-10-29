@@ -31,11 +31,11 @@ Invention Patents
 
 Work Experiences
 ======
-* See [Work Experience](https://wqrydqk.github.io/workexperience/)
+* See [Work Experience](https://wqrydqk.github.io/workexperiences/)
 
 Researches & Projects
 ======
-* See [Project & Research](https://wqrydqk.github.io/workexperience/)
+* See [Project & Research](https://wqrydqk.github.io/researches&projects/)
   
 Skills
 ======
