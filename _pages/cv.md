@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-This CV only contains basic information on Education, Skills, and Interests. For Invention patents, work experience, and projects (research), this page serves as content. You can click on the links in each part to see more detailed information; alternatively, clicking on the categories at the top of the page can direct you to the same information.
+This CV only contains basic information on Education, Skills, and Interests. For Invention patents, work experience, and projects (research), this page serves as an index: you can click on the links in each part to see more detailed information; alternatively, clicking on the categories at the top of the page can direct you to the same information.
 
 Education
 ======
