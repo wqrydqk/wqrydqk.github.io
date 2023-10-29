@@ -12,7 +12,7 @@ I currently work as a chassis control engineer at [Li Auto](https://ir.lixiang.c
 
 Currently, I am applying for Ph.D. 2024 Fall in the US, the direction I would like to apply and major in is **Dynamics and Control**. This web page serves as the online CV.
 
-You can find the nearest pdf version of my CV here: [Buyao Lyu's Curriculum Vitae](../assets/Resume_BuyaoLyu.pdf), and the information on this homepage aligns with the nearest version of my pdf CV.
+You can find the nearest pdf version of my CV here: [Buyao Lyu's Curriculum Vitae](../assets/Resume_BuyaoLyu.pdf), and the information on this web page aligns with the nearest version of my pdf CV.
 
 [Email](mailto:wqrydqk@umich.edu)
 
