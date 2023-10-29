@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-This CV only contains basic information on Education, Skills, and Interests. For Invention patents, work experience, and projects, this page serves as content. You can click on the links in each part to see more detailed information; alternatively, clicking on the categories at the top of the page can direct you to the same information.
+This CV only contains basic information on Education, Skills, and Interests. For Invention patents, work experience, and projects (research), this page serves as content. You can click on the links in each part to see more detailed information; alternatively, clicking on the categories at the top of the page can direct you to the same information.
 
 Education
 ======
@@ -26,21 +26,31 @@ Education
 
 Invention Patents
 ======
-* See [Invention Patents](https://wqrydqk.github.io/publications/)
+* See [Invention Patents](https://wqrydqk.github.io/patents/)
 
 
-Work experience
+Work Experiences
 ======
-* Li Auto Co. Ltd., Department of Chassis Electronic
+* See [Work Experience](https://wqrydqk.github.io/workexperience/)
+
+Researches & Projects
+======
+* See [Project & Research](HTTP://)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical Skills:
+   * Programming: Python, MATLAB/Simulink, Stateflow, LabVIEW 
+   * Software: Microsoft Office, LaTeX, Dspace (Configuration Desk and ControlDesk), UG 
+           (Unigraphics) 
+  * Automotive Tools: Proficient in using CANoe and CANape, Familiar with CAN communication
+ 
+* Language Skills: Chinese (Native), English (Proficient) 
+
+Interests
+======
+* Xiao (Chinese Flute), Piano, Singing, Badminton, Table Tennis, Photography, Travel 
+
 
 Publications
 ======
