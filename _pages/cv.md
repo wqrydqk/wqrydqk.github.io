@@ -25,7 +25,7 @@ Education
 
 Invention Patents
 ======
-* See [Invention Patents](site.publications)
+* See [Invention Patents](./publications.md)
 
 
 Work experience
