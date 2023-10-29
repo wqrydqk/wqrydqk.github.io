@@ -35,7 +35,7 @@ Work Experiences
 
 Researches & Projects
 ======
-* See [Project & Research](HTTP://)
+* See [Project & Research](https://wqrydqk.github.io/workexperience/)
   
 Skills
 ======
@@ -50,26 +50,3 @@ Skills
 Interests
 ======
 * Xiao (Chinese Flute), Piano, Singing, Badminton, Table Tennis, Photography, Travel 
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
