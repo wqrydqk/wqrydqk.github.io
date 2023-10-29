@@ -190,7 +190,12 @@ collections:
   patents:
     output: true
     permalink: /:collection/:path/
-
+  workexperiences:
+    output: true
+    permalink: /:collection/:path/
+  researches&projects:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -252,6 +257,28 @@ defaults:
   - scope:
       path: ""
       type: patents
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
+
+    # work experiences
+  - scope:
+      path: ""
+      type: workexperiences
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
+
+    # researches & projects
+  - scope:
+      path: ""
+      type: researches&projects
     values:
       layout: single
       author_profile: true
