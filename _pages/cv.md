@@ -14,14 +14,14 @@ Education
 * Bachelor of Science in Mechanical Engineering
    * Time:  2016-2020
    * University: Shanghai Jiao Tong University
-   * Overall GPA: 3.71/4.0
-   * Award: Silver Award for Capstone Project 
+   * **Overall GPA: 3.71/4.0**
+   * **Award: Silver Award for Capstone Project**
 * Master of Science in Mechanical Engineering
    * Time: 2020-2022
    * University: University of Michigan, Ann Arbor
    * Track: Control
-   * Overall GPA: 4.0/4.0
-   * Award: James Lu and Qingni Li Engineering Graduate Scholarship
+   * **Overall GPA: 4.0/4.0**
+   * **Award: James Lu and Qingni Li Engineering Graduate Scholarship**
 
 Inventions Patents
 ======
