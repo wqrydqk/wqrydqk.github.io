@@ -16,3 +16,6 @@ author_profile: true
   * Designed and implemented a rack force observer, enhancing feedback on position and velocity through the application of Kalman Filters, which significantly expanded the bandwidth of the original rack force observer.
   * Innovated a high-frequency hand force generation algorithm based on the enhanced rack force observer, leading to a PATENT application.
   * Resolved the long-standing occasional frame loss issue by implementing a complementary filtering algorithm.
+<p align="center">
+<img src="../images/SBW.png"  width = "800" height = "500"/>
+</p>
