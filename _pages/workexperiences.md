@@ -19,3 +19,14 @@ author_profile: true
 <p align="center">
 <img src="../images/SBW.png"  width = "800" height = "500"/>
 </p>
+<br/>
+
+* Project 2: SBW in Chassis Integration Function: DST (Dynamic Steering Torque)
+  * Researched and analyzed the existing mu-estimation algorithm, successfully integrating it into the DST perception function for mu-split road detection.
+  * Designed a sophisticated PID controller, incorporating a feed-forward control algorithm within the DST control logic. Leveraged the vehicle's yaw rate as a feedback signal and brake pressure at the cylinders to generate feed-forward signals, optimizing DST performance.
+  * Independently executed calibration tasks for DST at a proving ground, including fine-tuning P, I, and D values, and other critical calibration parameters.
+  *	Conducted a comprehensive Functional Safety analysis of the DST control system within the SBW framework.
+<p align="center">
+<img src="../images/DST.png"  width = "800" height = "500"/>
+</p>
+
