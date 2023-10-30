@@ -6,9 +6,10 @@ author_profile: true
 ---
 
 ## Li Auto Co. Ltd., Department of Chassis Electronic
-#### Chassis Electronic Control Engineer, SBW (Steering by Wire) Group      
-##### Time：06/2022-Present
-##### Projects:
+### Chassis Electronic Control Engineer, SBW (Steering by Wire) Group   
+------
+#### Time：06/2022-Present
+#### Projects:
 * Project 1: SBW Demo Software Development
   * Developed a scene display based on the SBW test bench, incorporating MAB-III and kvaser for sensor data capture, allowed for the visualization of vehicle dynamics using PreScan.
   * Engineered an amplification circuit to enhance sensor electrical signals from brake and accelerator pedals, enabling more precise data collection.
