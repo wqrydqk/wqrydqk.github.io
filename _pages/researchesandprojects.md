@@ -28,8 +28,8 @@ These are the projects as well as the research I did during my M.S. and B.S. per
 ## UMich: An App by Python-Travel Around the US                                  
 #### Time:  01/2021-05/2021
 * Developed and implemented a travel planning application using Python, incorporating various APIs and packages, including Flask, to enhance user experience and streamline trip planning processes.
-* GitHub link: https://github.com/wqrydqk/SI507_Final_Proj
-* Demo video link on YouTube: https://www.youtube.com/watch?v=Bso_EGK6IBc
+* [GitHub link](https://github.com/wqrydqk/SI507_Final_Proj)
+* [Demo video link on YouTube](https://www.youtube.com/watch?v=Bso_EGK6IBc)
 <br/>
 
 ## UMich: Energy Recovery System Modeling and Control    
