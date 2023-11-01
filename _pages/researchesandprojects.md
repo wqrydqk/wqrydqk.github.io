@@ -48,7 +48,7 @@ These are the projects as well as the research I did during my M.S. and B.S. per
 * Utilized 3-D printing technology to fabricate essential components and assembled the lifting mechanism.
 * Conducted rigorous testing to ensure the device's functionality, meeting the user requirement of effortless installation plate lifting with a single handle.
 <p align="center">
-<img src="../images/P6.png"  width = "680" height = "360"/>
+<img src="../images/P6.png"  width = "580" height = "320"/>
 </p>
 <br/>
 
@@ -65,7 +65,7 @@ These are the projects as well as the research I did during my M.S. and B.S. per
 * Orchestrated the overall cart structure, ensuring seamless operation while adhering to competition requirements.
 * Contributed to Arduino coding and subsequent modifications, enhancing the robot's functionality.
 <p align="center">
-<img src="../images/P5.png"  width = "680" height = "360"/>
+<img src="../images/P5.png"  width = "480" height = "300"/>
 </p>
 <br/>
 
@@ -76,7 +76,7 @@ These are the projects as well as the research I did during my M.S. and B.S. per
 *	Analyzed alloy microstructures, surface topography, compositions, and crystal textures using SEM and XRD.
 *	Applied a PATENT for invention.
 <p align="center">
-<img src="../images/L7.png"  width = "680" height = "360"/>
+<img src="../images/L7.png"  width = "340" height = "200"/>
 </p>
 <br/>
 
