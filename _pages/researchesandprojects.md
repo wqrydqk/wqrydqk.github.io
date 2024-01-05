@@ -11,7 +11,7 @@ These are the projects as well as the research I did during my M.S. and B.S. per
 * Successfully assembled hardware components and established circuit connections, showcasing the ability to design a lead controller for Lab 2, a PID controller for Lab 3, and an LQR controller for Lab 4.
 * Leveraged Simulink for system simulations in Labs 2, 3, and 4, refining system analysis and design skills.
 <p align="center">
-<img src="../images/L1.png"  width = "300" height = "200"/>
+<img src="../images/L1_2.png"  width = "600" height = "400"/>
 </p>
 <br/>
 
