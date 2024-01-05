@@ -20,7 +20,7 @@ author_profile: true
 <img src="../images/SBW.png"  width = "800" height = "500"/>
 </p>
 <p align="center">
-<img src="../images/SBW.png"  width = "800" height = "500"/>
+<img src="../images/SBW_2.png"  width = "800" height = "500"/>
 </p>
 <br/>
 
@@ -32,4 +32,6 @@ author_profile: true
 <p align="center">
 <img src="../images/DST.png"  width = "800" height = "500"/>
 </p>
-
+<p align="center">
+<img src="../images/DST_2.png"  width = "800" height = "500"/>
+</p>
