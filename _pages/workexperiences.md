@@ -19,6 +19,9 @@ author_profile: true
 <p align="center">
 <img src="../images/SBW.png"  width = "800" height = "500"/>
 </p>
+<p align="center">
+<img src="../images/SBW.png"  width = "800" height = "500"/>
+</p>
 <br/>
 
 * Project 2: SBW in Chassis Integration Function: DST (Dynamic Steering Torque)
